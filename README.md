@@ -7,6 +7,9 @@ preprocessed MNIST dataset.
 
 The MNIST dataset has a training set of 60,000 samples and a test set of 10,000 samples. For this project, we have added some unstable (spurious) features to the original MNIST dataset. We need you to train a classifier that can filter out these spurious features to create a stable and robust classifier.
 
+## How to run?
+Open the folder ./codes and then run the main.ipynb. The output is in the ./Results folder.
+
 ## **References**
 
 [1] Bao, Yujia, Shiyu Chang, and Regina Barzilay. "Learning stable classifiers by transferring
