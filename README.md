@@ -1,4 +1,4 @@
-# **AAI Project: Train classifier for modified MNIST with unstable (spurious) features**
+# **CSE5001 Project: Train classifier for modified MNIST with unstable (spurious) features**
 
 ## **Description**
 
